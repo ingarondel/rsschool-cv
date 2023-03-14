@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://ingarondel.github.io/rsschool-cv/cv
+# [CV](https://ingarondel.github.io/rsschool-cv/cv)
